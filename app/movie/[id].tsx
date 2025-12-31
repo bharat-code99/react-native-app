@@ -1,7 +1,7 @@
 import React from 'react'
 import { Text, View } from 'react-native'
 
-const Details = () => {
+const MovieDetails = () => {
   return (
     <View>
       <Text>Movie Details Avatar</Text>
@@ -9,4 +9,4 @@ const Details = () => {
   )
 }
 
-export default Details
+export default MovieDetails
