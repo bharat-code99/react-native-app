@@ -4,7 +4,7 @@ import { Text, View } from 'react-native'
 const MovieDetails = () => {
   return (
     <View>
-      <Text>Movie Details Avatar</Text>
+      <Text>Movie Details: </Text>
     </View>
   )
 }
